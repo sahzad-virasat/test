@@ -1,5 +1,5 @@
 <?php
 
-echo 'test git repo!';
+echo 'demo git repo!';
 
 ?>
