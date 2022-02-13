@@ -1,5 +1,1 @@
-<?php
-
-echo 'demo git repo!';
-
-?>
+Hello index.php file 
