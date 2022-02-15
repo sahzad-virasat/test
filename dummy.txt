@@ -1,1 +1,4 @@
+
+revert dummy file using head then commited
+
 changed dummy file again
