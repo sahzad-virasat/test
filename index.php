@@ -1,5 +1,1 @@
-<?php
-
-echo 'test brasssnch!';
-
-?>
+Hello index.php file 
